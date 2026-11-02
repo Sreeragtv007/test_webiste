@@ -11,7 +11,7 @@ WEBSITES = [
     "https://lepniglobal.com/",
     "https://www.fiorefashions.in/"
 ]
-TIMEOUT_SECONDS = 15
+TIMEOUT_SECONDS = 50
 
 
 def check_website(url: str) -> bool:
