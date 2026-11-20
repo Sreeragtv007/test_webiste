@@ -9,8 +9,7 @@ from urllib.request import Request, urlopen
 
 WEBSITES = [
     "https://lepniglobal.com/",
-    "https://www.fiorefashions.in/",
-    "https://adminportal.promittenstech.com/"
+    "https://www.fiorefashions.in/"
 ]
 TIMEOUT_SECONDS = 50
 
